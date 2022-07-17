@@ -1,7 +1,12 @@
+server:
+  port: 8081
 spring:
   profiles:
     active: development
+  main:
+    allow-bean-definition-overriding: true
 #  mvc:
 #    view:
 #      prefix: classpath:/templates/
 #      suffix: .html
+

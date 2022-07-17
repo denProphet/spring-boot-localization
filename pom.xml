@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.hillel.springboot</groupId>
-    <artifactId>hillel-practice-06-spring-boot</artifactId>
+    <artifactId>hillel-yarovoy-hw5</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>hillel-practice-06-spring-boot</name>
+    <name>hillel-yarovoy-hw5</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
